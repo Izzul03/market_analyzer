@@ -17,7 +17,6 @@ pip install -r requirements.txt
 streamlit run Home.py
 ```
 
-Open http://localhost:8501 in your browser.
 
 ---
 
