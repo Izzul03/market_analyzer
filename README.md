@@ -70,15 +70,6 @@ Binance, Mempool.space, SEC EDGAR, and yfinance all require **no key**.
 
 ---
 
-## 🌐 Deploy to Streamlit Cloud
-
-1. Push this folder to a GitHub repo
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo
-4. Set **Main file path** → `Home.py`
-5. Click **Deploy** — done ✅
-
----
 
 ## 📖 The 200 MA Framework
 
